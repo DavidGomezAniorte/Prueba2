@@ -3,7 +3,7 @@
     public class Class
     {
         public Class(){
-            Console.WriteLine("Class instantiated");
+            Console.WriteLine("Class instantiated");//Comentario añadido
         }
     }
 }
