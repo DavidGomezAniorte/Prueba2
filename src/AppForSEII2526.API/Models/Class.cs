@@ -11,5 +11,9 @@
             get{ return att; }
             set { att = value; }
         }
+
+        public string Method(){
+            return "Method executed";
+        }
     }
 }
